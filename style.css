@@ -416,7 +416,7 @@ width: 130px;
     border-right: 2px solid rgb(35, 138, 104);
     margin-right: 20px;
 }
-.curriculum .fila .item .conector{
+/* .curriculum .fila .item .conector{
     height: 2px;
     background-color: rgb(35, 138, 104);
     width: 47px;
@@ -435,7 +435,7 @@ width: 130px;
     position: relative;
     bottom: 4px;
     
-}
+} */
 .portafolio{
     background-color:rgb(23, 23, 23);
     color: white;
@@ -624,7 +624,7 @@ footer .arriba{
 
 }
 
-@media screen and(max-width:700px){
+@media screen and (max-width:700px){
     .sobreMi .fila{
         display: block;
     }
