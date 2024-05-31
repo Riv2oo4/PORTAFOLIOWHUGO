@@ -200,7 +200,17 @@ width: 130px;
 .sobreMi button:hover .overlay{
     width: 100%;
 }
+.sobreMi button a {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.sobreMi button a i {
+    color: white;
+}
 
 .skills{
     background-color: rgb(23, 23, 23);
