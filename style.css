@@ -139,7 +139,7 @@ html{
 
 .sobreMi .contenido-seccion p span{
    font-weight: bold;
-   color: white;
+   color: rgb(232, 223, 223);
 }
 
 .sobreMi .fila{
@@ -210,7 +210,7 @@ width: 130px;
 }
 
 .sobreMi button a i {
-    color: white;
+    color: rgb(238, 238, 238);
 }
 
 .skills{
