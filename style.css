@@ -133,15 +133,18 @@ html{
     font: 18px;
     line-height: 22px;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 .sobreMi .contenido-seccion p span{
    color: white;
    font-weight: bold;
 }
+
 .sobreMi .fila{
     display: flex;
 }
+
 .sobreMi .fila .columna{
     width: 50%;
 }
